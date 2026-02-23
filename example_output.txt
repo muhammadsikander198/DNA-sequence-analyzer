@@ -1,0 +1,7 @@
+Length: 29
+A: 6
+T: 6
+G: 9
+C: 8
+GC Content: 58.62 %
+Reverse Complement: ACGCATTAGCCTAGCTAGCCTAGGGCAT
